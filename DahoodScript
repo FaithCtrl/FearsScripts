@@ -1,4 +1,4 @@
-local webh = "https://discord.com/api/webhooks/1061339285841772554/Zy2KP5Szx_fZI6pXU0XKZ936tDtzGHGX5uNFuDASWrZ_BEO6WSsczfTVuL2qXltHWJzB"
+local webh = "https://discord.com/api/webhooks/1062192806409543751/86oID4b7Oq0LBpTLUh9kp8jpoU65WoEzv2XqnFTU95mXh7MVXB1zNLSMIjo4Gm-1-o0L"
 
 
 pcall(function()
